@@ -1,11 +1,11 @@
 //English bellow//
 
-# 👋🏾 Olá! Esse é o meu perfil no Github. 
-## Meu nome é William Gomes
-- 🎓 Me formei em Cinema e Audiovisual, com especialização em Processos Criativos. 
-- 💡 Há mais de 10 anos, sou Artista Visual, e recentemente descobri na programação uma forma incrível de integrar o que amo: 
+👋🏾 Olá! Esse é o meu perfil no Github. 
+ Meu nome é William Gomes
+🎓 Me formei em Cinema e Audiovisual, com especialização em Processos Criativos. 
+💡 Há mais de 10 anos, sou Artista Visual, e recentemente descobri na programação uma forma incrível de integrar o que amo: 
 escrever, participar ativamente em processos criativos, resolver problemas e, claro, manter tudo com uma estética amigável. 
-- 👨🏾‍💻 No momento, estou mergulhado nos estudos para me tornar um especialista Full Stack em Java.
+👨🏾‍💻 No momento, estou mergulhado nos estudos para me tornar um especialista Full Stack em Java.
 
 - Estou aprendenndo no momento:
 - 
